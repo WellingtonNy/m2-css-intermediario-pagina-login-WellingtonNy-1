@@ -1,0 +1,9 @@
+<div  class="modalb continens flex flexCentrum col50">
+            <div  class="modalc continensModal flex flexCentrum flexColumnae flexE">
+                <button class="claudere">X</button>
+                <h2 class="notam2 larg ">Recuperare Rationem</h2>
+                <input class="input1 " type="text" placeholder="intra e-mail">
+                <button class="but1 notam button1 radii">Submittere</button>
+            </div>
+
+        </div>

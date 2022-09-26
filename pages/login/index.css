@@ -1,1 +1,87 @@
-/* Desenvolva seu código aqui... */
+main {
+    margin: 0 auto;
+    background-image: url(/assets/img/conceito-de-design-moderno8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.sec1 {
+    background-color: var(--color-gray-3);
+    gap: 15px;
+    background-image: url(/assets/img/css-dark-chain-background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-right: 3px solid rgba(255, 255, 255, 0.536);
+}
+
+.sec2 {
+    background-color: var(--color-gray-6);
+    background-image: url(/assets/img/css-dark-chain-background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.oblitusPassword {
+    font-size: 12px;
+    padding: 3px;
+    color: var(--color-primaria);
+    text-align: right;
+    font-weight: 700;
+    margin-bottom: 35px;
+    transition: 200ms;
+}
+
+.span1{
+    cursor: pointer;
+}
+
+.span1:hover {
+    color: var(--color-secundarium);
+    transition: 200ms;
+}
+
+.but1:hover {
+    color: var(--color-secundarium);
+    transition: 500ms;
+}
+
+
+.modalb {
+    z-index: 2;
+    position: absolute;
+    top: 0;
+}
+
+.modalc {
+    background-color: var(--color-gray-6);
+    position: relative;
+    background-image: url(/assets/img/docs@tinypng.d9e4dcdc.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid 5px black;
+    box-shadow: 0 0 0 3px white;
+}
+
+
+.claudere {
+    width: 37px;
+    right: 30px;
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-size: 20px;
+    border-radius: 100%;
+    border: solid white;
+    padding: 5px;
+    position: absolute;
+    top: -14px;
+    right: -14px;
+    cursor: pointer;
+}
+
+.claudere:hover {
+    color: var(--color-secundarium);
+    border: solid var(--color-secundarium);
+}
+

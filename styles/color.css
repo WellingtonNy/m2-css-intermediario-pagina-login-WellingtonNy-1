@@ -1,0 +1,15 @@
+:root {
+  --color-primaria: #26b3d2;
+  --color-secundarium: #e422e4;
+  --color-gray-1: #191C1F;
+  --color-gray-2: #212529;
+  --color-gray-3: #343A40;
+  --color-gray-4: #ADB5BD;
+  --color-gray-5: #CED4DA;
+  --color-gray-6: #EDF2FF;
+  --color-album: #ffff;
+}
+
+.col50 {
+  background-color: #0000006b;
+}

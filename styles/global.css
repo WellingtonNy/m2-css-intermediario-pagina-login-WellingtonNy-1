@@ -1,0 +1,55 @@
+.flex {
+    display: flex;
+}
+
+.flexCentrum {
+    justify-content: center;
+    align-items: center;
+}
+
+.flexColumnae {
+    flex-direction: column;
+}
+
+.flexB {
+    justify-content: space-between;
+}
+
+.flexE {
+    justify-content: space-around;
+}
+
+.continens {
+    position: relative;
+    width: 1280px;
+    height: 720px;
+}
+
+.continensLogin {
+    width: 714px;
+    height: 407px;
+}
+
+.continensLoginLeft {
+    height: 407px;
+    width: 321px;
+}
+
+.continensLoginIus {
+    height: 407px;
+    width: 714px;
+}
+
+.continensAccessum {
+    width: 240px;
+    height: 254px;
+}
+
+.radii {
+    border-radius: 8px;
+}
+
+.continensModal {
+    width: 375px;
+    height: 250px;
+}

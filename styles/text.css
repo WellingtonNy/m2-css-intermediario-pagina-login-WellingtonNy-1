@@ -1,0 +1,18 @@
+.notam{
+    font-size: 30px;
+    color: var(--color-primaria);
+    font-family: fantasy;
+}
+.notam2{
+    font-size: 20px;
+    color: var(--color-secundarium);
+    font-family: fantasy;
+}
+.paragrapho{
+    font-size: 16px;
+    color: var(--color-secundarium)
+}
+
+.larg{
+    font-size: 32px;
+}
